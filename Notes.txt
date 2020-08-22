@@ -12,3 +12,6 @@ Then, npm start
 
 Exclude the node_modules folder:
 .gitignore 
+
+
+Installing Bootstrap, jQuery and Popper.js 

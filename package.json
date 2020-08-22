@@ -6,11 +6,17 @@
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
   "author": "Vaidhyanathan S M",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.4.4",
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
   }
 }
