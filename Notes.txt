@@ -1,0 +1,14 @@
+
+Creating a package.json file:
+npm init
+
+Installing and saving the dependency in the package.json file:
+npm install lite-server --save-dev
+
+
+Starting the Lite server:
+Editing the package.json file 
+Then, npm start 
+
+Exclude the node_modules folder:
+.gitignore 
